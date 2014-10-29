@@ -1,0 +1,158 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td 
+{
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	color: #000;
+}
+
+body 
+{
+	background: #c1ebff;
+	margin: 0 auto;
+	padding: 0;
+}
+ul, ol, dl 
+{
+	padding: 0;
+	margin: 0;
+}
+h1, h3
+{	
+}
+h2
+{
+   text-align: center;
+}
+h4, h5, h6
+{
+}
+a:link 
+{
+}
+a:visited 
+{
+}
+a:hover, a:active, a:focus 
+{
+}
+#txt
+{
+   padding-left: 5px;
+}
+#bold
+{
+	font-weight: bold;
+}
+img 
+{
+    float: right;
+}
+#tab
+{
+   padding-left: 35px;
+}
+#labels
+{
+   background: #bedbf7;
+}
+#form
+{
+   background: #f1f1f1;
+   padding: 10px;
+   text-align: center;
+}
+.tb
+{
+   margin: 0 auto;
+   text-align: center;
+}
+/*Containers*/
+.container
+{
+  width: 1000px;
+  height: 700px;
+  background: #e8effa;
+  margin: 0 auto;
+  border: 1px solid #198cf4;
+  padding: 0px;
+}
+.logincontainer
+{
+    width: 250px;
+    border: 1px solid #bedbf7;
+	padding: 0;
+	margin: 5px;
+	float: left;
+}
+.logocontainer
+{
+    width: 725px;
+    border: 1px solid #bedbf7;
+    float: right;
+	padding: 0;
+	margin: 5px;
+}
+.contactscontainer
+{
+    width: 250px;
+    border: 1px solid #bedbf7;
+	background: #f1f1f1;
+	padding: 0;
+	margin: 5px;
+	margin-top: 190px;
+}
+.formcontainer
+{
+    width: 514px;
+	background: #f1f1f1;
+    border: 1px solid #bedbf7;
+	margin: 0 auto;
+	padding: 0;
+	margin: 5px;
+	float: left;
+}
+.newscontainer
+{
+    width: 190px;
+	background: #f1f1f1;
+    border: 1px solid #bedbf7;
+	padding: 0;
+	margin: 5px;
+	display: inline;
+	float: right;
+}
+.cforum
+{
+	width: 250px;
+	height: 65px;
+	border: 1px solid #bedbf7;
+	background: #f1f1f1;
+	padding: 0;
+	margin: 5px;
+}
+.rightside
+{
+	width: 735px;
+	float: right;
+}
+.leftside
+{
+    width: 260px;
+	float: left;
+}
+.cfooter
+{
+	width: 1000px;
+	height: 20px;
+	margin: 0 auto;
+	background: #bedbf7;
+}
